@@ -1,6 +1,6 @@
 # Book Data Files
 
-[⤓ 下载 BookDataFiles.zip](https://github.com/CYJB/calibre_plugin_data_files/releases/download/latest/BookDataFiles.zip)
+[⤓ 下载 BookDataFiles.zip](https://github.com/CYJB/Calibre-Plugin-Data-Files/releases/download/latest/BookDataFiles.zip)
 
 在 calibre 的**书籍详情面板**里，把当前这本书 `data` 目录下的文件**一行一个**列出来，
 点击文件名直接用系统默认程序打开。
